@@ -2,8 +2,8 @@ import React from 'react';
 
 const Library = () => {
   return (
-    <div>
-      L
+    <div className="screen-container">
+      Library
     </div>
   );
 };
